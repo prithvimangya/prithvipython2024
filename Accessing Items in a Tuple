@@ -1,0 +1,2 @@
+print(coordinates[0])
+coordinates
