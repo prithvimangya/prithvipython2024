@@ -1,0 +1,5 @@
+#Reading a File
+file=open("/prithvi.txt","r")
+content=file.read()
+print(content)
+file.close()
