@@ -1,0 +1,4 @@
+# Writing to a File
+file=open("/prithvi.txt","w")
+file.write("Hello World")
+file.close()
