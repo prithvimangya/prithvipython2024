@@ -1,0 +1,7 @@
+#Finally Block
+try:
+  file = open("/prithvi.txt","r")
+except FileNotFoundError:
+    print("File not found.")
+finally:
+    print("Execution completed.")
